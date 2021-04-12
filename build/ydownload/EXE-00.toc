@@ -2,7 +2,7 @@
  True,
  False,
  True,
- 'c:\\users\\jordan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ 'E:\\Projects\\ydownload\\ydownload\\ydownloadicon.ico',
  None,
  False,
  False,
@@ -37,7 +37,7 @@
  [],
  False,
  False,
- 1618000594,
+ 1618083765,
  [('run.exe',
    'c:\\users\\jordan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
    'EXECUTABLE')])

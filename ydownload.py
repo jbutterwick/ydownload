@@ -89,7 +89,7 @@ class Application(Frame):
         self.download["text"] = "Download",
         self.download["command"] = self.download_video
         self.download["width"] = 9
-        self.download.pack({"side": "right", "padx": (10, 1), "pady": (1, 1)})
+        self.download.pack({"side": "right", "padx": (10, 1), "pady": (1, 5)})
 
         self.video_status = IntVar()
 

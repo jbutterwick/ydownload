@@ -1,4 +1,5 @@
-dist
-build
-__pycache__
-prerequisites
+dist/*
+build/*
+__pycache__/*
+prerequisites/*
+*.toc
